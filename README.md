@@ -1,4 +1,4 @@
-# iNaturalist_ModelRobustness
+# iNaturalist_Robustness
 
 Extracting images with spurious correlation in Image Classification is very important for measuring model robustness. I define robustness with the following equation;
 
